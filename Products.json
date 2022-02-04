@@ -1,0 +1,28 @@
+[{
+    "brand": "Rouge Lacquer Long-Lasting Lipstick",
+    "color": "Be The Boss - red orange",
+    "type": "Lipstick",
+    "price": 34,
+    "description": "This high-shine, long-lasting lipstick has a balm-like texture with intense, super-pigmented shades."
+  },
+  {
+      "brand": "Melting Lip Clicks Lip Balm",
+      "color": "Caramel - (Nude)",
+      "type": "Lipstick",
+      "price": 28,
+    "description": "A lipstick-oil hybrid that melts onto your lips with a click stick component makes application super easy and fun."
+  },
+  {
+      "brand": "Christian Louboutin",
+      "color": "Rouge Louboutin - 001M",
+      "type": "Velvet Matte Lip Colour",
+      "price": 20,
+      "description": "A highly-pigmented matte lip color that provides non-drying comfort on the lips and leaves a suede finish."
+  },
+  {
+      "brand": "Marc Jacobs Beauty",
+      "color": "Yours To Try 450 - light buff",
+      "type": "Le Marc Liquid Lip Crème",
+      "price": 39,
+      "description": "A hydrating, eight-hour wear, liquid lipstick in a range of bold, full-coverage nudes."
+  }]

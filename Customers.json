@@ -1,0 +1,54 @@
+[
+    {
+        "firstName": "Manny",
+        "lastName": "Toribo",
+        "address": [{
+                "streetAddress": "123 Sunshine Blvd",
+                "addressLine2": "",
+                "city": "Palmetto",
+                "state": "Florida",
+                "zipCode": "33052"
+        }],
+        "email": "MToribo@gmail.com",
+        "phoneNumber": "305-561-6161"
+    },
+    {
+        "firstName": "Hugh",
+        "lastName": "Janus",
+        "address": [{
+                "streetAddress": "123 Powerline rd",
+                "addressLine2": "apt. 202",
+                "city": "Boca Raton",
+                "state": "Florida",
+                "zipCode": "33433"
+        }],
+        "email": "HJanus@gmail.com",
+        "phoneNumber": "561-962-5555"
+    },
+    {
+        "firstName": "Mary",
+        "lastName": "Jane",
+        "address": [{
+                "streetAddress": "3780 Lyons Ave",
+                "addressLine2": "apt. 3102",
+                "city": "Boca Raton",
+                "state": "Florida",
+                "zipCode": "33486"
+        }],
+        "email": "Mjane@comcast.net",
+        "phoneNumber": "786-327-4444"
+    },
+    {
+        "firstName": "Alexis",
+        "lastName": "Rodriguez",
+        "address": [{
+                "streetAddress": "5734 Berasco street",
+                "addressLine2": "",
+                "city": "Plantation",
+                "state": "Florida",
+                "zipCode": "33317"
+        }],
+        "email": "Arod52@bellsouth.net",
+        "phoneNumber": "926-305-2155"
+    }
+]

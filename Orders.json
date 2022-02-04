@@ -1,0 +1,50 @@
+[
+    {
+        "orderStatus": "Completed",
+        "customerId": "I0aDWwDNh2bjP4aPKoaO",
+        "totalAmount": 40.00,
+        "orderDate": "1/15/22",
+        "deliveryDate": "1/27/22",
+        "products": [{
+            "SKU": "MNl7UU0hXML6ix7Sx367",
+            "price": 20.00,
+            "quantity": 2
+        }]
+    },
+    {
+        "orderStatus": "Shipped",
+        "customerId": "1tDmJyA3piViC1I7NTp4",
+        "totalAmount": 39.00,
+        "orderDate": "1/27/22",
+        "deliveryDate": "02/03/22",
+        "products": [{
+            "SKU": "JNznBGrQIK5aA6wZ7fNU",
+            "price": 39.00,
+            "quantity": 1
+        }]
+    },
+    {
+        "orderStatus": "Backorder",
+        "customerId": "IMCEzsb7xS364f9Sofds",
+        "totalAmount": 56.00,
+        "orderDate": "1/22/22",
+        "deliveryDate": "1/28/22",
+        "products": [{
+            "SKU": "PBMymSz6XYVxBl8uX14w",
+            "price": 28.00,
+            "quantity": 2
+        }]
+    },
+    {
+        "orderStatus": "Shipped",
+        "customerId": "cWcwkb47uEt6m2yuLHh8",
+        "totalAmount": 102.00,
+        "orderDate": "1/27/22",
+        "deliveryDate": "02/05/22",
+        "products": [{
+            "SKU": "Oxo3X3cZ0kUML1VvYjCV",
+            "price": 34.00,
+            "quantity": 3
+        }]
+    }
+]
